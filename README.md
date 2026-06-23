@@ -16,9 +16,8 @@ dotfiles/
 │   └── starship.toml
 ├── zsh/
 │   ├── .zshrc
-│   └── aliases.zsh
-└── wsl/
-    └── .bashrc
+│   └── .p10k.zsh
+└── wsl
 ```
 
 ## Usage
@@ -26,7 +25,7 @@ dotfiles/
 Clone the repo and symlink or copy the files to their respective locations.
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git
+https://github.com/k1dd03/personalization
 ```
 
 > Adjust paths as needed depending on your setup.
